@@ -1,0 +1,6 @@
+D:\Unity学习\C#项目\Singleton pattern\Singleton pattern\bin\Debug\Singleton pattern.exe.config
+D:\Unity学习\C#项目\Singleton pattern\Singleton pattern\bin\Debug\Singleton pattern.exe
+D:\Unity学习\C#项目\Singleton pattern\Singleton pattern\bin\Debug\Singleton pattern.pdb
+D:\Unity学习\C#项目\Singleton pattern\Singleton pattern\obj\Debug\Singleton pattern.csprojAssemblyReference.cache
+D:\Unity学习\C#项目\Singleton pattern\Singleton pattern\obj\Debug\Singleton pattern.exe
+D:\Unity学习\C#项目\Singleton pattern\Singleton pattern\obj\Debug\Singleton pattern.pdb

@@ -1,0 +1,7 @@
+D:\02-Unity学习\C#项目\Generic\Generic\bin\Debug\Generic.exe.config
+D:\02-Unity学习\C#项目\Generic\Generic\bin\Debug\Generic.exe
+D:\02-Unity学习\C#项目\Generic\Generic\bin\Debug\Generic.pdb
+D:\02-Unity学习\C#项目\Generic\Generic\obj\Debug\Generic.csprojAssemblyReference.cache
+D:\02-Unity学习\C#项目\Generic\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+D:\02-Unity学习\C#项目\Generic\Generic\obj\Debug\Generic.exe
+D:\02-Unity学习\C#项目\Generic\Generic\obj\Debug\Generic.pdb

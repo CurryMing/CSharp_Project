@@ -1,0 +1,6 @@
+D:\Unity学习\C#项目\m_Class\a_Class\bin\Debug\a_Class.exe.config
+D:\Unity学习\C#项目\m_Class\a_Class\bin\Debug\a_Class.exe
+D:\Unity学习\C#项目\m_Class\a_Class\bin\Debug\a_Class.pdb
+D:\Unity学习\C#项目\m_Class\a_Class\obj\Debug\a_Class.csprojAssemblyReference.cache
+D:\Unity学习\C#项目\m_Class\a_Class\obj\Debug\a_Class.exe
+D:\Unity学习\C#项目\m_Class\a_Class\obj\Debug\a_Class.pdb

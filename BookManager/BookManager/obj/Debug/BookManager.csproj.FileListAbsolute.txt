@@ -1,0 +1,7 @@
+D:\02-Unity学习\新建文件夹\BookManager\BookManager\bin\Debug\BookManager.exe.config
+D:\02-Unity学习\新建文件夹\BookManager\BookManager\bin\Debug\BookManager.exe
+D:\02-Unity学习\新建文件夹\BookManager\BookManager\bin\Debug\BookManager.pdb
+D:\02-Unity学习\新建文件夹\BookManager\BookManager\obj\Debug\BookManager.csprojAssemblyReference.cache
+D:\02-Unity学习\新建文件夹\BookManager\BookManager\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+D:\02-Unity学习\新建文件夹\BookManager\BookManager\obj\Debug\BookManager.exe
+D:\02-Unity学习\新建文件夹\BookManager\BookManager\obj\Debug\BookManager.pdb

@@ -1,0 +1,6 @@
+D:\Unity学习\C#项目\Abstract_a\Abstract_a\bin\Debug\Abstract_a.exe.config
+D:\Unity学习\C#项目\Abstract_a\Abstract_a\bin\Debug\Abstract_a.exe
+D:\Unity学习\C#项目\Abstract_a\Abstract_a\bin\Debug\Abstract_a.pdb
+D:\Unity学习\C#项目\Abstract_a\Abstract_a\obj\Debug\Abstract_a.csprojAssemblyReference.cache
+D:\Unity学习\C#项目\Abstract_a\Abstract_a\obj\Debug\Abstract_a.exe
+D:\Unity学习\C#项目\Abstract_a\Abstract_a\obj\Debug\Abstract_a.pdb

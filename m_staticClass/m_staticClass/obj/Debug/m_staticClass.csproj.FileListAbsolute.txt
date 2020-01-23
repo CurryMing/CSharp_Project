@@ -1,0 +1,6 @@
+D:\Unity学习\C#项目\m_staticClass\m_staticClass\bin\Debug\m_staticClass.exe.config
+D:\Unity学习\C#项目\m_staticClass\m_staticClass\bin\Debug\m_staticClass.exe
+D:\Unity学习\C#项目\m_staticClass\m_staticClass\bin\Debug\m_staticClass.pdb
+D:\Unity学习\C#项目\m_staticClass\m_staticClass\obj\Debug\m_staticClass.csprojAssemblyReference.cache
+D:\Unity学习\C#项目\m_staticClass\m_staticClass\obj\Debug\m_staticClass.exe
+D:\Unity学习\C#项目\m_staticClass\m_staticClass\obj\Debug\m_staticClass.pdb

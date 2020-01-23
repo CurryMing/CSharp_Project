@@ -1,0 +1,6 @@
+D:\Unity学习\C#项目\m_Operator\m_Operator\bin\Debug\m_Operator.exe.config
+D:\Unity学习\C#项目\m_Operator\m_Operator\bin\Debug\m_Operator.exe
+D:\Unity学习\C#项目\m_Operator\m_Operator\bin\Debug\m_Operator.pdb
+D:\Unity学习\C#项目\m_Operator\m_Operator\obj\Debug\m_Operator.csprojAssemblyReference.cache
+D:\Unity学习\C#项目\m_Operator\m_Operator\obj\Debug\m_Operator.exe
+D:\Unity学习\C#项目\m_Operator\m_Operator\obj\Debug\m_Operator.pdb

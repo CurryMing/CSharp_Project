@@ -1,0 +1,6 @@
+D:\Unity学习\C#项目\m_Hero\m_Hero\bin\Debug\m_Hero.exe.config
+D:\Unity学习\C#项目\m_Hero\m_Hero\bin\Debug\m_Hero.exe
+D:\Unity学习\C#项目\m_Hero\m_Hero\bin\Debug\m_Hero.pdb
+D:\Unity学习\C#项目\m_Hero\m_Hero\obj\Debug\m_Hero.csprojAssemblyReference.cache
+D:\Unity学习\C#项目\m_Hero\m_Hero\obj\Debug\m_Hero.exe
+D:\Unity学习\C#项目\m_Hero\m_Hero\obj\Debug\m_Hero.pdb

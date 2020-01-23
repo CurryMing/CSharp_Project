@@ -1,0 +1,6 @@
+D:\Unity学习\C#项目\m_Enum\m_Enum\bin\Debug\m_Enum.exe.config
+D:\Unity学习\C#项目\m_Enum\m_Enum\bin\Debug\m_Enum.exe
+D:\Unity学习\C#项目\m_Enum\m_Enum\bin\Debug\m_Enum.pdb
+D:\Unity学习\C#项目\m_Enum\m_Enum\obj\Debug\m_Enum.csprojAssemblyReference.cache
+D:\Unity学习\C#项目\m_Enum\m_Enum\obj\Debug\m_Enum.exe
+D:\Unity学习\C#项目\m_Enum\m_Enum\obj\Debug\m_Enum.pdb

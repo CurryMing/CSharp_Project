@@ -1,0 +1,6 @@
+D:\Unity学习\C#项目\CSharp_Project\m_string\m_string\bin\Debug\m_string.exe.config
+D:\Unity学习\C#项目\CSharp_Project\m_string\m_string\bin\Debug\m_string.exe
+D:\Unity学习\C#项目\CSharp_Project\m_string\m_string\bin\Debug\m_string.pdb
+D:\Unity学习\C#项目\CSharp_Project\m_string\m_string\obj\Debug\m_string.csprojAssemblyReference.cache
+D:\Unity学习\C#项目\CSharp_Project\m_string\m_string\obj\Debug\m_string.exe
+D:\Unity学习\C#项目\CSharp_Project\m_string\m_string\obj\Debug\m_string.pdb

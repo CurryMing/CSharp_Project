@@ -1,0 +1,6 @@
+D:\Unity学习\C#项目\CSharp_Project\m_Stack\m_Stack\bin\Debug\m_Stack.exe.config
+D:\Unity学习\C#项目\CSharp_Project\m_Stack\m_Stack\bin\Debug\m_Stack.exe
+D:\Unity学习\C#项目\CSharp_Project\m_Stack\m_Stack\bin\Debug\m_Stack.pdb
+D:\Unity学习\C#项目\CSharp_Project\m_Stack\m_Stack\obj\Debug\m_Stack.csprojAssemblyReference.cache
+D:\Unity学习\C#项目\CSharp_Project\m_Stack\m_Stack\obj\Debug\m_Stack.exe
+D:\Unity学习\C#项目\CSharp_Project\m_Stack\m_Stack\obj\Debug\m_Stack.pdb

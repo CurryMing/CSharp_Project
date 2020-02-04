@@ -20,5 +20,5 @@ class Program
     {
         Console.WriteLine("这是一个委托类型方法");
     }
-
+    //2020/2/4
 }

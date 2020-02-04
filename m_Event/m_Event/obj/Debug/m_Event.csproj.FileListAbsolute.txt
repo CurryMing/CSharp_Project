@@ -1,0 +1,6 @@
+D:\Unity学习\C#项目\CSharp_Project\m_Event\m_Event\bin\Debug\m_Event.exe.config
+D:\Unity学习\C#项目\CSharp_Project\m_Event\m_Event\bin\Debug\m_Event.exe
+D:\Unity学习\C#项目\CSharp_Project\m_Event\m_Event\bin\Debug\m_Event.pdb
+D:\Unity学习\C#项目\CSharp_Project\m_Event\m_Event\obj\Debug\m_Event.csprojAssemblyReference.cache
+D:\Unity学习\C#项目\CSharp_Project\m_Event\m_Event\obj\Debug\m_Event.exe
+D:\Unity学习\C#项目\CSharp_Project\m_Event\m_Event\obj\Debug\m_Event.pdb
